@@ -6,15 +6,16 @@ An aid to memory what to install when setting up virgin system.
 https://github.com/facebook/chisel
 
 ##Plugins
-Package Manager: 
-http://alcatraz.io/
+BUFFPlug: https://github.com/buffstop/BUFFPlug
 
-SCXcodeSwitchExpander
+From Package Manager (http://alcatraz.io/):
 
-BBUDebuggerTuckAway
+* SCXcodeSwitchExpander
 
-BBUFullIssueNavigator
+* BBUDebuggerTuckAway
 
-VVDocumenter-Xcode
+* BBUFullIssueNavigator
+
+* VVDocumenter-Xcode
 
 
