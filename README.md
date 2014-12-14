@@ -1,6 +1,6 @@
 #Xcode-Helper-List
 
-An aid to memory what to install when setting up virgin system.
+An aid to memory what to install when setting up a virgin system.
 
 ##Debug Tools
 https://github.com/facebook/chisel
