@@ -3,12 +3,12 @@
 An aid to memory what to install when setting up a virgin system.
 
 ##Debug Tools
-https://github.com/facebook/chisel
+[chisel](https://github.com/facebook/chisel)
 
 ##Plugins
-BUFFPlug: https://github.com/buffstop/BUFFPlug
+[BUFFPlug](https://github.com/buffstop/BUFFPlug)
 
-From Package Manager (http://alcatraz.io/):
+From Package Manager [Alcatraz](http://alcatraz.io/):
 
 * SCXcodeSwitchExpander
 
@@ -18,5 +18,8 @@ From Package Manager (http://alcatraz.io/):
 
 * VVDocumenter-Xcode
 * XAlign
+
+##Additional Software
+* [quickradar](http://www.quickradar.com/)
 
 
