@@ -17,5 +17,6 @@ From Package Manager (http://alcatraz.io/):
 * BBUFullIssueNavigator
 
 * VVDocumenter-Xcode
+* XAlign
 
 
